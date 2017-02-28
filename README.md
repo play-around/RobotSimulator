@@ -1,7 +1,4 @@
-# Github URL: 
-https://github.com/play-around/RobotSimulator
-
-# ToyRobotSimulator
+# RobotSimulator
 Simulates a simple toy robot movement in a 2 dimensional space.
 
 # Documentation
