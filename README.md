@@ -2,8 +2,10 @@
 Simulates a simple toy robot movement in a 2 dimensional space.
 
 # Documentation
-  Please visit https://godoc.org/github.com/alien45/ToyRobotSimulator for documentation.
+  Please visit https://godoc.org/github.com/play-around/RobotSimulator for documentation.
 
 # Quick Start
-Download the file called 'ToyRobotSimulator' to run the application without any developement setup on a Linux environment and run the following command in the terminal:
-    ./ToyRobotSimulator
+1. Download the project zip file and unzip or just complied file called 'RobotSimulator'  
+2. Open terminal and go to download directly
+3. Execute the following command in the terminal:
+    ./RobotSimulator
